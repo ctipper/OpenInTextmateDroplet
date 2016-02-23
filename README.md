@@ -9,3 +9,5 @@ To install ⌘-Drag the droplet to the toolbar of any Finder window.
 To uninstall Ctrl-click Finder toolbar to customise, then drag the droplet down from palette.
 
 Based on original idea by Henrik Nyh <http://henrik.nyh.se>
+
+_There is a known issue where the script expects a Textmate2.app bundle. You will need to fork and modify the source to use Textmate.app. Or rename the app..._
