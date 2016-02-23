@@ -1,4 +1,4 @@
-# OpenInTextMateDroplet
+# OpenInTextmateDroplet
 
 A Finder droplet for OS X Yosemite to open selected folder in Textmate2.
 
