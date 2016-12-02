@@ -23,7 +23,7 @@ end open
 
 -- open in TextMate
 on tm(listOfAliases)
-	tell application "TextMate2"
+	tell application "TextMate"
 		open listOfAliases
 		activate
 	end tell
